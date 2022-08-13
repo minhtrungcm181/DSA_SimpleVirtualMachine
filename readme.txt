@@ -1,0 +1,1 @@
+You write testcase in to test000.txt to run the programs
